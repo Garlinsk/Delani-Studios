@@ -1,5 +1,5 @@
 #DELANI-STUDIO
-#### Franklin Kuloba,2021
+#### DELANI STUDIO,2021
 #### By  Franklin Kuloba
 ## Description
 * A fictional studio
