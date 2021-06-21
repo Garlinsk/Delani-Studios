@@ -1,0 +1,19 @@
+.intro {
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 200px; 
+}
+
+.section-header {
+    text-align: center;
+    line-height: 40px;
+}
+
+.services {
+    background-image: url(../assets/backgrounds/s_image.jpg);
+
+}
+
